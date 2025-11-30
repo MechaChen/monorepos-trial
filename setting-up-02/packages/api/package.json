@@ -1,6 +1,6 @@
 {
   "name": "@monorepos/api",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@monorepos/utils": "1.0.0"
+    "@monorepos/utils": "^0.1.0"
   }
 }
