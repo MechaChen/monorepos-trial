@@ -1,3 +1,3 @@
-module.exports = () => {
-  console.log("function from @my-monorepo/api");
-};
+const utils = require("@monorepos/utils");
+
+console.log(utils.greet("Benson"));
