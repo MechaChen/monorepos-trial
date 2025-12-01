@@ -9,6 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MechaChen/monorepos-trial.git"
+  },
   "publishConfig": {
     "access": "public",
     "registry": "https://npm.pkg.github.com"
