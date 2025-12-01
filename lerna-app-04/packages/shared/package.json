@@ -1,5 +1,5 @@
 {
-  "name": "@monorepos/shared",
+  "name": "@jingyuehchen/shared",
   "version": "0.2.0",
   "description": "",
   "main": "index.js",
@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
+    "access": "public",
     "registry": "https://npm.pkg.github.com"
-  }
+  },
+  "gitHead": "3bbb8657f73e658ffb6eb2fc2fe973dd4581f73d"
 }
