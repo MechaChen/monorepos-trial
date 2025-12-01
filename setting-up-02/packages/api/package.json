@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@monorepos/utils": "^0.1.0"
-  }
+    "@monorepos/utils": "^0.1.0",
+    "lodash": "^4.17.21"
+  },
+  "gitHead": "d80e6cffa8166a1a219be48fb2766fc780e342ce"
 }

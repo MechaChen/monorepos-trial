@@ -1,0 +1,26 @@
+{
+  "name": "assets",
+  "version": "0.1.0",
+  "description": "> TODO: description",
+  "homepage": "https://github.com/MechaChen/monorepos-trial#readme",
+  "bugs": {
+    "url": "https://github.com/MechaChen/monorepos-trial/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MechaChen/monorepos-trial.git"
+  },
+  "license": "ISC",
+  "author": "Benson Chen <tumlivein@gmail.com>",
+  "main": "yes",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/assets.test.js"
+  }
+}
