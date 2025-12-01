@@ -1,5 +1,5 @@
 {
-  "name": "@jingyuehchen/shared",
+  "name": "@MechaChen/shared",
   "version": "0.3.0",
   "description": "",
   "main": "index.js",
@@ -13,5 +13,5 @@
     "access": "public",
     "registry": "https://npm.pkg.github.com"
   },
-  "gitHead": "3bbb8657f73e658ffb6eb2fc2fe973dd4581f73d"
+  "gitHead": "fc8091b696ef08203a8b6e9de76b830f00c8dd82"
 }
