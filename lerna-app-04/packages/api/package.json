@@ -1,0 +1,17 @@
+{
+  "name": "@MechaChen/api",
+  "version": "0.5.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com"
+  },
+  "gitHead": "12a35ee49a04a3c924c5671a11c192674630f9ce"
+}
