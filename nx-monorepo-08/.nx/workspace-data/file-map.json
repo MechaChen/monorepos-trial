@@ -6,156 +6,84 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": ".nx/workspace-data/nx_files.nxt",
-        "hash": "13231183639371875009"
-      },
-      {
-        "file": "pnpm-workspace.yaml",
-        "hash": "15068071380531678201"
-      },
-      {
-        "file": ".nx/workspace-data/C03A2D5A-CA54-5E39-9AE1-35C5E8594482.db-shm",
-        "hash": "11154155982050776751"
-      },
-      {
-        "file": ".nx/workspace-data/parsed-lock-file.dependencies.json",
-        "hash": "8658500801541166518"
-      },
-      {
-        "file": ".nx/workspace-data/C03A2D5A-CA54-5E39-9AE1-35C5E8594482.db-wal",
-        "hash": "16805006445897082576"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/12578922666990279229",
-        "hash": "17970356960717533327"
-      },
-      {
-        "file": "pnpm-lock.yaml",
-        "hash": "11406068931113979297"
-      },
-      {
-        "file": ".nx/workspace-data/d/server-process.json",
-        "hash": "12097043846243963101"
-      },
-      {
-        "file": "dist/packages/animals/index.js.map",
-        "hash": "6492583641733860905"
-      },
-      {
-        "file": "nx.json",
-        "hash": "18336426213955174907"
-      },
-      {
-        "file": ".nx/workspace-data/parsed-lock-file.nodes.json",
-        "hash": "6443583311861987544"
-      },
-      {
-        "file": "dist/packages/names/index.d.ts",
-        "hash": "18375606650417949278"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/17597799036944184316",
-        "hash": "18377972673229085230"
-      },
-      {
-        "file": "package.json",
-        "hash": "5901619291844015887"
-      },
-      {
-        "file": "package-lock.json",
-        "hash": "1219616948260834099"
-      },
-      {
-        "file": "dist/packages/zoo/index.js.map",
-        "hash": "6660671299793600272"
-      },
-      {
-        "file": ".nx/workspace-data/project-graph.json",
-        "hash": "12877271984612964715"
-      },
-      {
-        "file": "dist/packages/names/index.js",
-        "hash": "14937626757670821020"
-      },
-      {
-        "file": "dist/packages/names/index.d.ts.map",
-        "hash": "3757725395681678093"
-      },
-      {
-        "file": "dist/packages/zoo/index.d.ts",
-        "hash": "2589858589043755590"
-      },
-      {
-        "file": "dist/tsconfig.tsbuildinfo",
-        "hash": "10742278340115469374"
+        "file": ".gitignore",
+        "hash": "2303642404724327591"
       },
       {
         "file": "dist/packages/animals/index.d.ts",
         "hash": "4739525476073655029"
       },
       {
-        "file": "dist/packages/animals/index.js",
-        "hash": "17347280892094951192"
-      },
-      {
         "file": "dist/packages/animals/index.d.ts.map",
         "hash": "3224440432335173741"
       },
       {
-        "file": ".nx/cache/run.json",
-        "hash": "5116828378855471869"
+        "file": "dist/packages/animals/index.js",
+        "hash": "17347280892094951192"
+      },
+      {
+        "file": "dist/packages/animals/index.js.map",
+        "hash": "6492583641733860905"
+      },
+      {
+        "file": "dist/packages/names/index.d.ts",
+        "hash": "18375606650417949278"
+      },
+      {
+        "file": "dist/packages/names/index.d.ts.map",
+        "hash": "3757725395681678093"
+      },
+      {
+        "file": "dist/packages/names/index.js",
+        "hash": "14937626757670821020"
+      },
+      {
+        "file": "dist/packages/names/index.js.map",
+        "hash": "4136460906627624100"
+      },
+      {
+        "file": "dist/packages/zoo/index.d.ts",
+        "hash": "2589858589043755590"
       },
       {
         "file": "dist/packages/zoo/index.d.ts.map",
         "hash": "1611716848465749589"
       },
       {
-        "file": ".nx/workspace-data/C03A2D5A-CA54-5E39-9AE1-35C5E8594482.db",
-        "hash": "11385326962295336815"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/12217023080178746643",
-        "hash": "2371603045443940927"
-      },
-      {
         "file": "dist/packages/zoo/index.js",
         "hash": "714162342481066531"
       },
       {
-        "file": ".nx/workspace-data/lockfile-dependencies.hash",
-        "hash": "7935251287882356128"
+        "file": "dist/packages/zoo/index.js.map",
+        "hash": "6660671299793600272"
       },
       {
-        "file": ".nx/workspace-data/file-map.json",
-        "hash": "13627168726575055480"
+        "file": "dist/tsconfig.tsbuildinfo",
+        "hash": "10742278340115469374"
       },
       {
-        "file": ".nx/workspace-data/source-maps.json",
-        "hash": "4632493128336106167"
+        "file": "nx.json",
+        "hash": "10739232622046452527"
       },
       {
-        "file": ".nx/cache/terminalOutputs/15363611678831001205",
-        "hash": "6438566063655361876"
+        "file": "package-lock.json",
+        "hash": "1219616948260834099"
       },
       {
-        "file": ".nx/workspace-data/lockfile-nodes.hash",
-        "hash": "7935251287882356128"
+        "file": "package.json",
+        "hash": "5901619291844015887"
+      },
+      {
+        "file": "pnpm-lock.yaml",
+        "hash": "11406068931113979297"
+      },
+      {
+        "file": "pnpm-workspace.yaml",
+        "hash": "15068071380531678201"
       },
       {
         "file": "tsconfig.json",
         "hash": "13031497013428385746"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/9645985898067210000",
-        "hash": "14379961509469735673"
-      },
-      {
-        "file": ".nx/cache/terminalOutputs/9141774451223447462",
-        "hash": "12273680962081843557"
-      },
-      {
-        "file": "dist/packages/names/index.js.map",
-        "hash": "4136460906627624100"
       }
     ],
     "projectFileMap": {
@@ -169,16 +97,6 @@
           "hash": "17849466455159912427"
         }
       ],
-      "animals": [
-        {
-          "file": "packages/animals/index.ts",
-          "hash": "2798865561588430218"
-        },
-        {
-          "file": "packages/animals/package.json",
-          "hash": "13579621868522858485"
-        }
-      ],
       "names": [
         {
           "file": "packages/names/index.ts",
@@ -187,6 +105,16 @@
         {
           "file": "packages/names/package.json",
           "hash": "1600209651479172162"
+        }
+      ],
+      "animals": [
+        {
+          "file": "packages/animals/index.ts",
+          "hash": "2798865561588430218"
+        },
+        {
+          "file": "packages/animals/package.json",
+          "hash": "13579621868522858485"
         }
       ]
     }

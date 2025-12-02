@@ -1,31 +1,42 @@
 {
   "run": {
-    "command": "nx run-many -t typecheck -p animals names",
-    "startTime": "2025-12-02T16:12:40.079Z",
-    "endTime": "2025-12-02T16:12:40.936Z",
+    "command": "nx run-many -t typecheck",
+    "startTime": "2025-12-02T17:02:05.478Z",
+    "endTime": "2025-12-02T17:02:05.516Z",
     "inner": false
   },
   "tasks": [
     {
+      "taskId": "zoo:typecheck",
+      "target": "typecheck",
+      "projectName": "zoo",
+      "hash": "7140462235598702171",
+      "startTime": "2025-12-02T17:02:05.514Z",
+      "endTime": "2025-12-02T17:02:05.515Z",
+      "params": "",
+      "cacheStatus": "local-cache-hit",
+      "status": 0
+    },
+    {
       "taskId": "animals:typecheck",
       "target": "typecheck",
       "projectName": "animals",
-      "hash": "9645985898067210000",
-      "startTime": "2025-12-02T16:12:40.112Z",
-      "endTime": "2025-12-02T16:12:40.935Z",
+      "hash": "2916988071279394070",
+      "startTime": "2025-12-02T17:02:05.514Z",
+      "endTime": "2025-12-02T17:02:05.515Z",
       "params": "",
-      "cacheStatus": "cache-miss",
+      "cacheStatus": "local-cache-hit",
       "status": 0
     },
     {
       "taskId": "names:typecheck",
       "target": "typecheck",
       "projectName": "names",
-      "hash": "9141774451223447462",
-      "startTime": "2025-12-02T16:12:40.112Z",
-      "endTime": "2025-12-02T16:12:40.935Z",
+      "hash": "2699036992903778719",
+      "startTime": "2025-12-02T17:02:05.514Z",
+      "endTime": "2025-12-02T17:02:05.515Z",
       "params": "",
-      "cacheStatus": "cache-miss",
+      "cacheStatus": "local-cache-hit",
       "status": 0
     }
   ]

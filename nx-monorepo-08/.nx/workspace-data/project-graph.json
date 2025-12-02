@@ -35,7 +35,8 @@
               "runCommand": "pnpm run build"
             },
             "configurations": {},
-            "parallelism": true
+            "parallelism": true,
+            "cache": true
           },
           "typecheck": {
             "executor": "nx:run-script",
@@ -47,7 +48,8 @@
               "runCommand": "pnpm run typecheck"
             },
             "configurations": {},
-            "parallelism": true
+            "parallelism": true,
+            "cache": true
           }
         },
         "implicitDependencies": []
@@ -88,7 +90,8 @@
               "runCommand": "pnpm run build"
             },
             "configurations": {},
-            "parallelism": true
+            "parallelism": true,
+            "cache": true
           },
           "typecheck": {
             "executor": "nx:run-script",
@@ -100,7 +103,8 @@
               "runCommand": "pnpm run typecheck"
             },
             "configurations": {},
-            "parallelism": true
+            "parallelism": true,
+            "cache": true
           }
         },
         "implicitDependencies": []
@@ -141,7 +145,8 @@
               "runCommand": "pnpm run build"
             },
             "configurations": {},
-            "parallelism": true
+            "parallelism": true,
+            "cache": true
           },
           "typecheck": {
             "executor": "nx:run-script",
@@ -153,7 +158,8 @@
               "runCommand": "pnpm run typecheck"
             },
             "configurations": {},
-            "parallelism": true
+            "parallelism": true,
+            "cache": true
           }
         },
         "implicitDependencies": []
@@ -2352,5 +2358,5 @@
   },
   "version": "6.0",
   "errors": [],
-  "computedAt": 1764692325681
+  "computedAt": 1764694925476
 }

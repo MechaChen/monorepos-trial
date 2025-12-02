@@ -1,0 +1,6 @@
+> nx run names:build
+
+
+> names@1.0.0 build /Users/tomobenson/Desktop/Benson/monorepos-trial/nx-monorepo-08/packages/names
+> tsc
+
