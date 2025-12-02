@@ -1,0 +1,4 @@
+
+> animals@1.0.0 typecheck /Users/tomobenson/Desktop/Benson/monorepos-trial/nx-monorepo-08/packages/animals
+> tsc --noEmit
+

@@ -1,0 +1,4 @@
+
+> names@1.0.0 typecheck /Users/tomobenson/Desktop/Benson/monorepos-trial/nx-monorepo-08/packages/names
+> tsc --noEmit
+
